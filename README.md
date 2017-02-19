@@ -1,5 +1,10 @@
 # Knowledge-based-Artificial-Intelligence
 
-Rules for the Expert system are written in plain English.
+Requirements
 
-System is developed in Python.
+  - Python 3.5 or 3.6
+
+Instructions
+
+  - python Rule-Engine.py
+
